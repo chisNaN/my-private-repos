@@ -10,7 +10,7 @@ ___
 
 ## dc-webstack
 
->A (maintained) docker-compose stack with: php7, apache, mysql, phpmyadmin, rabbitmq, mailhog for Symfony (2, 3, 4)
+>A (maintained) docker-compose stack with: php7, apache, mysql, phpmyadmin, rabbitmq, mailhog for Symfony apps
 
 ## my-react-tutos
 
@@ -48,7 +48,7 @@ ___
 
 >A Google chrome extension that will save any kind of login credentials in a Google spreadsheet
 
-## wf3-private
+## wf3-exercises
 
 >Php & JavaScript exercises I give during training sessions
 
