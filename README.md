@@ -63,3 +63,7 @@ ___
 ## web-dev-guide
 
 >A personal (thanks to my professional experiences) guide to give you a detailed idea of what someone can expect to start as a junior web developer in 2017-2018
+
+## search-jobs
+
+>Will search jobs simultaneously on remixjobs, alsacreations & jobteaser
