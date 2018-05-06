@@ -64,6 +64,10 @@ ___
 
 >A personal (thanks to my professional experiences) guide to give you a detailed idea of what someone can expect to start as a junior web developer in 2017-2018
 
+## devops-tips
+
+>A bunch of devops tips and tutorials. You can have an overview [here](https://arthur.xn--grgoi-csa.re/tips)
+
 ## search-jobs
 
 >A search jobs engine that will look up simultaneously on remixjobs, alsacreations & jobteaser
