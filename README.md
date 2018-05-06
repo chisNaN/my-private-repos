@@ -58,11 +58,11 @@ ___
 
 ## js-training-private
 
->The detailed program of my [JavaScript training course](../javascript-training)
+>The detailed program of my [JavaScript training course](../../javascript-training)
 
 ## web-dev-guide
 
->A personal guide (thanks to my professional experiences) to give you a detailed idea of what someone can expect to start as a junior web developer as of 2017-2018
+>A personal guide (thanks to my professional experiences) to give you a detailed idea of what someone can expect to start as a junior web developer as of 2017-2018. Some advice of what to do or avoiding to do.
 
 ## devops-tips
 
