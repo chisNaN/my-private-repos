@@ -10,7 +10,7 @@ ___
 
 ## dc-webstack
 
->A (maintained) docker-compose stack with: php7, apache, mysql, phpmyadmin, rabbitmq, mailhog for Symfony apps
+>A (maintained) docker-compose stack with: php7, apache, mysql, phpmyadmin, rabbitmq, mailhog for Symfony apps. A bash script is included to install Symfony.
 
 ## my-react-tutos
 
