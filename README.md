@@ -42,7 +42,7 @@ ___
 
 ## node-mail
 
->Send an email with nodeJS using a simple FaaS
+>Send an email with nodeJS using a simple [FaaS](https://en.wikipedia.org/wiki/Function_as_a_service)
 
 ## chrome-form-saver
 
