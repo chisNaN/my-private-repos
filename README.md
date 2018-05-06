@@ -58,7 +58,7 @@ ___
 
 ## js-training-private
 
->The detailed program of my [JavaScript training course](../../javascript-training)
+>The detailed program of my [JavaScript training course](../../../javascript-training)
 
 ## web-dev-guide
 
