@@ -22,7 +22,7 @@ ___
 
 ## heroku-php-deploy
 
->How to deploy a php app to an heroku instance with git and composer thru github
+>How to deploy a php app to an [heroku](https://www.heroku.com/) instance with git and composer thru github
 
 ## multifetch
 
