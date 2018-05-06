@@ -26,7 +26,7 @@ ___
 
 ## multifetch
 
->Will expose you different kind of patterns to deal with asynchroneous requests in JavaScript
+>Will expose you different kind of patterns to deal with asynchronous requests using JavaScript fetch
 
 ## ipfs-js-infura
 
@@ -34,7 +34,7 @@ ___
 
 ## couchdb-install
 
->Different processes (local or hosted) to install a couchdb server (docker etc.)
+>Different processes to install a couchdb server (local docker or hosted etc.)
 
 ## pouch-co
 
@@ -58,7 +58,7 @@ ___
 
 ## js-training-private
 
->The detailed program of my JavaScript training course
+>The detailed program of my [JavaScript training course](../javascript-training)
 
 ## web-dev-guide
 
@@ -66,7 +66,7 @@ ___
 
 ## devops-tips
 
->A bunch of devops tips and tutorials. You can have an overview [here](https://arthur.xn--grgoi-csa.re/tips)
+>A bunch of devops tips and other kind tutorials. You can have an overview [here](https://arthur.xn--grgoi-csa.re/tips)
 
 ## search-jobs
 
