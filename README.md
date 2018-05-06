@@ -30,7 +30,7 @@ ___
 
 ## ipfs-js-infura
 
->How to add file(s) from your PC to IPFS using 100% browser js thru a public node
+>How to add file(s) from your PC to IPFS using 100% browser js thru a public blockchain node
 
 ## couchdb-install
 
