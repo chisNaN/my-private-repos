@@ -46,7 +46,7 @@ ___
 
 ## chrome-form-saver
 
->A Google chrome extension that will save any kind of login credentials in a Google spreadsheet
+>A Google chrome extension (working on firefox & opera) that will save any kind of login credentials in a Google spreadsheet
 
 ## wf3-exercises
 
