@@ -38,7 +38,7 @@ ___
 
 ## pouch-co
 
->Manage a couchdb users database and authentication with pouchDB
+>Manage a couchdb users database and authentication with [pouchDB](https://pouchdb.com)
 
 ## node-mail
 
