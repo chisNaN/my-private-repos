@@ -52,7 +52,7 @@ ___
 
 >Php & JavaScript exercises I give during training sessions
 
-## js-test
+## js-tests
 
 >JavaScript tests that can be given during job interviews
 
