@@ -56,6 +56,10 @@ ___
 
 >JavaScript tests that can be given during job interviews
 
+## training-resources
+
+>A bunch of external links to official doc, forums, tools, plateforms used by web developers
+
 ## js-training-private
 
 >The detailed program of my [JavaScript training course](../../../javascript-training)
