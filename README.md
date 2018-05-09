@@ -14,7 +14,7 @@ ___
 
 ## symfony3-module
 
->A tutorial to help you make your first Symfony app in the "bundle" phylosohpy
+>A tutorial to help you make a Symfony app in the "bundle" phylosohpy
 
 ## my-react-tutos
 
