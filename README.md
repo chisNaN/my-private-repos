@@ -12,6 +12,10 @@ ___
 
 >A (maintained) docker-compose stack with: php7, apache, mysql, phpmyadmin, rabbitmq, mailhog for Symfony apps. A bash script is included to install Symfony.
 
+## symfony3-module
+
+>A tutorial to help you make your first Symfony app in the "bundle" phylosohpy
+
 ## my-react-tutos
 
 >Various tutorials to understand the basics of reactjs
@@ -46,11 +50,7 @@ ___
 
 ## chrome-form-saver
 
->A Google chrome extension (working on firefox & opera) that will save any kind of login credentials in a Google spreadsheet
-
-## wf3-exercises
-
->Php & JavaScript exercises I give during training sessions
+>A Google chrome extension (working on firefox & opera) that will save any kind of form login credentials in a Google spreadsheet (it's a malware!)
 
 ## js-tests
 
