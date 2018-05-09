@@ -74,8 +74,8 @@ ___
 
 ## search-jobs
 
->A search jobs engine that will look up simultaneously on remixjobs, alsacreations & jobteaser
+>A search jobs engine that will look up simultaneously on remixjobs, alsacreations & jobteaser (for people located in France)
 
 ## crypto-currency-tuto
 
->A tutorial to help you make your first steps in the jungle of crypto currency
+>A tutorial to help you make your first steps in the jungle of crypto currencies
