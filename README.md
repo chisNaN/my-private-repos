@@ -78,4 +78,8 @@ ___
 
 ## crypto-currency-tuto
 
->A tutorial to help you make your first steps in the jungle of crypto currencies
+>A tutorial to help you make your first steps in the jungle of crypto currency
+
+## crypto-gas-crontasks
+
+> Various Google apps script functions with timer triggers to fetch datas from crypto currencies api and send email notifications
