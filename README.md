@@ -50,7 +50,7 @@ ___
 
 ## chrome-form-saver
 
->A Google chrome extension (working on firefox & opera) that will save any kind of form login credentials in a Google spreadsheet (it's a malware!)
+>A browser extension (working also on firefox & opera) that will save any kind of form login credentials in a Google spreadsheet (it's a malware!)
 
 ## js-tests
 
