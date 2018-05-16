@@ -80,6 +80,6 @@ ___
 
 >A tutorial to help you make your first steps in the jungle of crypto currency
 
-## crypto-gas-crontasks
+## crypto-currency-scripts
 
-> Various Google apps script functions with timer triggers to fetch datas from crypto currencies api and send email notifications
+> Various (Java)Scripts to interact with different crypto currency APIS
