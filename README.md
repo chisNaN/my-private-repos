@@ -34,7 +34,7 @@ ___
 
 ## ipfs-js-infura
 
->How to add file(s) from your PC to [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) using 100% browser js thru a public blockchain node
+>How to add file(s) from your PC to [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) using 100% browser js thru public **BLOCKHAIN (API)** nodes
 
 ## couchdb-install
 
