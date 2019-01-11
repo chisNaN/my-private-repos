@@ -1,4 +1,4 @@
-# List of my private Gitlab repositories
+# List of my private Github repositories
 
 :bulb: If you are interested in having access to one of the following repositories feel free to contact me [here](https://arthur.xn--grgoi-csa.re/contact)
 
