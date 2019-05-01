@@ -6,11 +6,15 @@ ___
 
 ## react-stack
 
->How to install LAST VERSIONS of: webpack, babel, react, react-router and airbnb linter from SCRATCH using yarn
+>How to install LAST VERSIONS of: webpack (or parcel), babel, react, react-router, react-intl and airbnb linter (or standard) from SCRATCH using yarn
 
 ## dc-webstack
 
 >A (maintained) docker-compose stack with: php7, apache, mysql, phpmyadmin, rabbitmq, mailhog for Symfony apps. A bash script is included to install Symfony.
+
+## pwa-integration
+
+>Required files (service worker, manifest, icons, JavaScript) to turn your front into PWA and with update process
 
 ## symfony3-module
 
