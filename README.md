@@ -14,7 +14,7 @@ ___
 
 ## pwa-integration
 
->Required files (service worker, manifest, icons, JavaScript) to turn your front into PWA and with update process
+>Required files (service worker, manifest, icons, JavaScript) to turn your front into progressive web app and with update process
 
 ## symfony3-module
 
