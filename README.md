@@ -56,7 +56,7 @@ ___
 
 ## couchdb-install
 
->Different processes to install a couchdb server (local docker or hosted etc.)
+>Different processes to install a couchdb server (local docker, hosted and via kubernetes etc.)
 
 ## pouch-co
 
@@ -100,7 +100,7 @@ ___
 
 ## katacoda-scenarios
 
-> Will show you how to create interactive courses on katacoda using json via Github
+> Will show you how to create interactive courses on [katacoda](https://www.katacoda.com/) using json via Github
 
 ## search-jobs
 
