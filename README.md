@@ -20,6 +20,10 @@ ___
 
 >A tutorial to help you make a Symfony app in the "bundle" philosohpy
 
+## laravel-intro
+
+>Several tutorials to start developing with laravel (version 7)
+
 ## my-react-tutos
 
 >Various tutorials to understand the basics of reactjs
@@ -39,6 +43,10 @@ ___
 ## ipfs-js-infura
 
 >How to add file(s) from your PC to [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) using 100% browser js thru public **BLOCKHAIN (API)** nodes. (With a recursive fail retry version)
+
+## p2p-mov
+
+> Clone of electron app [popcorntime](https://popcorntime.app/fr/) in pure JavaScript using [webtorrent library](https://github.com/webtorrent/webtorrent)
 
 ## couchdb-install
 
