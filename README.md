@@ -1,6 +1,6 @@
 # List of my private Github repositories
 
-> The following list (which is not exhaustive) comprises of 25 repositories for some of them I keep maintaining
+> The following list (which is not exhaustive) comprises of 26 repositories for some of them I keep maintaining
 
 :bulb: If you are interested in having access to one of the following repositories feel free to contact me [here](https://arthur.xn--grgoi-csa.re/contact)
 
@@ -49,6 +49,10 @@ ___
 ## p2p-mov
 
 > Clone of electron app [popcorntime](https://popcorntime.app/fr/) in pure JavaScript using [webtorrent library](https://github.com/webtorrent/webtorrent)
+
+## gdrive-mp3-player
+
+> A Javascript application that will turn your mp3 library located on google drive in fully integrated audio player. (There is also a possibility to communicate with [audd api](https://audd.io/) for music recognition)
 
 ## couchdb-install
 
