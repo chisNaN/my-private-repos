@@ -44,7 +44,7 @@ ___
 
 ## ipfs-js-infura
 
->How to add file(s) from your PC to [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) using 100% browser js thru public **BLOCKHAIN (API)** nodes. (With a recursive fail retry version)
+>How to add file(s) from your PC to [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System) using 100% browser js thru public **BLOCKHAIN (API)** nodes. (With a recursive resilient retry version)
 
 ## p2p-mov
 
