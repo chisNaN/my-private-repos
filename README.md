@@ -1,6 +1,6 @@
 # List of my private Github repositories
 
-> The following list (which is not exhaustive) comprises of 27 repositories for some of them I keep maintaining
+> The following list (which is not exhaustive) comprises of 28 repositories for some of them I keep maintaining
 
 :bulb: If you are interested in having access to one of the following repositories feel free to contact me [here](https://arthur.xn--grgoi-csa.re/contact)
 
@@ -77,6 +77,10 @@ ___
 ## js-tests
 
 >JavaScript tests that can be given during job interviews
+
+## training-exercises
+
+>All the exercises with instructions in web development (especially JavaScript) I have been giving since 2017
 
 ## training-resources
 
