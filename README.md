@@ -52,6 +52,10 @@ ___
 
 >Send an email with nodeJS using a simple [FaaS](https://en.wikipedia.org/wiki/Function_as_a_service)
 
+## hasura-graphql
+
+> hacking graphql with hasura via docker and JavaScript
+
 ## chrome-form-saver
 
 >A browser extension (working also on firefox & opera) that will save any kind of form login credentials in a Google spreadsheet (it's a malware!)
@@ -75,6 +79,10 @@ ___
 ## devops-tips
 
 >A bunch of devops tips and other kind tutorials. You can have an overview [here](https://arthur.xn--grgoi-csa.re/tips)
+
+## katacoda-scenarios
+
+> Will show you how to create interactive courses on katacoda using json via Github
 
 ## search-jobs
 
