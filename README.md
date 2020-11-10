@@ -1,6 +1,6 @@
 # List of my private Github repositories
 
-> The following list (which is not exhaustive) comprises of 26 repositories for some of them I keep maintaining
+> The following list (which is not exhaustive) comprises of 27 repositories for some of them I keep maintaining
 
 :bulb: If you are interested in having access to one of the following repositories feel free to contact me [here](https://arthur.xn--grgoi-csa.re/contact)
 
@@ -105,6 +105,10 @@ ___
 ## crypto-currency-tuto
 
 >A tutorial to help you make your first steps in the jungle of crypto currency
+
+## binance-trade-bot
+
+>Nodejs scripts to sell and buy your cryptocurrencies pairs (from your spot account only) in the terminal. Better tracibility of your history trades.
 
 ## crypto-currency-scripts
 
