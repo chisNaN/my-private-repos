@@ -1,5 +1,7 @@
 # List of my private Github repositories
 
+> The following list (which is not exhaustive) comprises of 25 repositories for some of them I keep maintaining
+
 :bulb: If you are interested in having access to one of the following repositories feel free to contact me [here](https://arthur.xn--grgoi-csa.re/contact)
 
 ___
