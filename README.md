@@ -1,6 +1,6 @@
 # List of my private Github repositories
 
-> The following list (which is not exhaustive) comprises of 28 repositories for some of them I keep maintaining
+> The following list (which is not exhaustive) comprises of ~30 repositories for some of them I keep maintaining
 
 :bulb: If you are interested in having access to one of the following repositories feel free to contact me [here](https://arthur.xn--grgoi-csa.re/contact)
 
@@ -41,6 +41,10 @@ ___
 ## multifetch
 
 >Will expose you different kind of patterns to deal with asynchronous requests using JavaScript native fetch
+
+## multiclone
+
+>Will reveal you the way to clone ALL your **PRIVATE** and public github repositories in just one curl command
 
 ## ipfs-js-infura
 
